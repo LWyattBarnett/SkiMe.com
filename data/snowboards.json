@@ -1,0 +1,5 @@
+[
+    {"brand": "BrandX", "model": "Board1", "image": "images/board1.jpg"},
+    {"brand": "BrandX", "model": "Board2", "image": "images/board2.jpg"},
+    {"brand": "BrandY", "model": "Board3", "image": "images/board3.jpg"}
+]
